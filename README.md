@@ -12,4 +12,10 @@ JSON. Adapun metode HTTP yang secara umum dipakai dalam REST api adalah:
 • DELETE, berfungsi untuk menghapus data/resource dari REST serve
 • OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari
 REST server.
-#RETROFIT
+# RETROFIT
+Retrofit adalah sebuah library android yang membantu pengembang untuk melakukanrequest ke sebuah endpoint REST API. Library ini dikembangkan oleh Square Inc
+(https://github.com/square) sebuah perusahaan yang berbasis di Amerika Serikat. Library inimenyederhanakan kode program yang digunakan untuk mengakses REST API. Tidak hanya untuk
+mengakses REST API dengan proses sederhana (GET, POST, PUT, DELETE) retrofit jugamendukung berbagai macam format authentikasi via http, menambahkan header pada request,
+menambahkan parameter serta mengirim data berupa image ke server.
+# Link API
+http://www.omdbapi.com/?s=batman&apikey=2268147d.
